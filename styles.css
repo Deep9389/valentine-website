@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: rgb(247, 247, 247);
+  color: rgb(65, 12, 90);
+}
+
+header {
+  background-color: rgb(14, 230, 78);
+  color: white;
+  text-align: center;
+  padding: 50px 0;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.A {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 2em;
+  color: rgb(255, 20, 147);
+}
+
+.B{
+  font-size: 1.2em;
+  color: rgb(233, 6, 119);
+}
+
+.C {
+  font-size: 1em;
+  color: rgb(104, 46, 104);
+
+}
+
+footer {
+  background-color: rgb(241, 101, 171);
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+footer p {
+  font-size: 1em;
+}
